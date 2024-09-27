@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PortofolioNew-0.1.0";
 const contentToCache = [
-    "Build/Portfoliop.loader.js",
-    "Build/Portfoliop.framework.js.br",
-    "Build/Portfoliop.data.br",
-    "Build/Portfoliop.wasm.br",
+    "Build/Portofolio.loader.js",
+    "Build/Portofolio.framework.js",
+    "Build/Portofolio.data",
+    "Build/Portofolio.wasm",
     "TemplateData/style.css"
 
 ];
