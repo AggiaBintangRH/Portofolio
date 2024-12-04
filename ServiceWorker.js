@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-PortofolioNew-0.1.0";
+const cacheName = "Aggia-Portfolio-0.1.0";
 const contentToCache = [
-    "Build/Portfolio.loader.js",
-    "Build/Portfolio.framework.js",
-    "Build/Portfolio.data",
-    "Build/Portfolio.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js.br",
+    "Build/Build.data.br",
+    "Build/Build.wasm.br",
     "TemplateData/style.css"
 
 ];
